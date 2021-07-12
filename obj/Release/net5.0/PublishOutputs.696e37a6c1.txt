@@ -1,0 +1,7 @@
+D:\HJ_Training\Microservices\demo-app-laskar\demo-app-laskar\obj\Release\net5.0\PubTmp\Out\demo-app-laskar.exe
+D:\HJ_Training\Microservices\demo-app-laskar\demo-app-laskar\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\HJ_Training\Microservices\demo-app-laskar\demo-app-laskar\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\HJ_Training\Microservices\demo-app-laskar\demo-app-laskar\obj\Release\net5.0\PubTmp\Out\demo-app-laskar.dll
+D:\HJ_Training\Microservices\demo-app-laskar\demo-app-laskar\obj\Release\net5.0\PubTmp\Out\demo-app-laskar.deps.json
+D:\HJ_Training\Microservices\demo-app-laskar\demo-app-laskar\obj\Release\net5.0\PubTmp\Out\demo-app-laskar.runtimeconfig.json
+D:\HJ_Training\Microservices\demo-app-laskar\demo-app-laskar\obj\Release\net5.0\PubTmp\Out\demo-app-laskar.pdb
